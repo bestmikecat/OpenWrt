@@ -21,6 +21,6 @@ echo 'src-git xraya https://github.com/yichya/luci-app-xray' >>feeds.conf.defaul
 echo 'src-git packages https://github.com/coolsnowwolf/packages' >>feeds.conf.default
 echo 'src-git luci https://github.com/xiaowansm5/luci' >>feeds.conf.default
 echo 'src-git routing https://github.com/coolsnowwolf/routing' >>feeds.conf.default
-echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >>feeds.conf.default
+#echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
