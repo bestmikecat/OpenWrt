@@ -19,3 +19,4 @@
 echo 'src-git v2raya https://github.com/v2raya/v2raya-openwrt' >>feeds.conf.default
 echo 'src-git xraya https://github.com/yichya/luci-app-xray' >>feeds.conf.default
 echo 'src-git smallpackage https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
